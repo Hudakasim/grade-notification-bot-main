@@ -1,0 +1,8 @@
+id: "030722088@std.izu.edu.tr"
+password: "Narin.78"
+
+token: "6936766100:AAE5RZiN55sO5MqFReOuxVDUvVHDFC2zU9s"
+chat_id: "513807230"
+
+url: "https://kampus.izu.edu.tr/login"
+interval: 300 # refresh period
